@@ -1,12 +1,12 @@
 {
   "name": "action-explode-moose",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replace MOOSE input file action syntax with the verbose objects constructed",
   "main": "./lib/main",
   "license": "MIT",
   "repository": {
-     "type": "git",
-     "url": "https://github.com/dschwen/action-explode-moose"
+    "type": "git",
+    "url": "https://github.com/dschwen/action-explode-moose"
   },
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
