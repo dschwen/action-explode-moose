@@ -1,6 +1,6 @@
 {
   "name": "action-explode-moose",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Replace MOOSE input file action syntax with the verbose objects constructed",
   "main": "./lib/main",
   "license": "MIT",
