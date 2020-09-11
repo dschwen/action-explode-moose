@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
      "type": "git",
-     "url": "git@github.com:dschwen/action-explode-moose.git"
+     "url": "https://github.com/dschwen/action-explode-moose"
   },
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "tmp": ">=0.2.1",
